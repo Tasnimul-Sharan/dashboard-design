@@ -37,6 +37,7 @@ const Login = () => {
               type="email"
               placeholder="Enter Email"
               className="input input-bordered w-full max-w-xs"
+              requird
             />
           </div>
           <div className="form-control w-full max-w-xs m-7">
@@ -45,6 +46,7 @@ const Login = () => {
               type="password"
               placeholder="Enter Password"
               className="input input-bordered w-full max-w-xs"
+              requird
             />
           </div>
           <input
