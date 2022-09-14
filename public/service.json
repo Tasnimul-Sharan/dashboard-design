@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "6320ae8f6efb42d45399ac0d",
+      "price": "$2,199.16",
+      "picture": "https://manufacturer-website-c6d47.web.app/static/media/banner1.dd397c4979ada777ab48.jpg",
+      "name": "Laptop Parts"
+    },
+    {
+      "_id": "6320ae8f251dd658f69c0616",
+      "price": "$2,583.08",
+      "picture": "https://cdn.mos.cms.futurecdn.net/fUBA5JX8DbGmSe6mnG5Sxb-970-80.jpg.webp",
+      "name": "Electronics Gadgets"
+    },
+    {
+      "_id": "6320ae8f0a474892cb033af3",
+      "price": "$2,356.34",
+      "picture": "https://i.ibb.co/H7SSRhx/Black-Friday-Social-Media-Banner-06.jpg",
+      "name": "Best Products"
+    }
+  ]
